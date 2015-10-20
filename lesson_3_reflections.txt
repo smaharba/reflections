@@ -4,3 +4,9 @@ local?
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 	You might not want to incorparate all of the changes made by others without reviewing them first.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+	-branches live within a repository, whether local or on github. 
+	-forks are made on github to build upon repositories started by others
+	-clones are complete repositories pulled from github to a local machine
+	-also clones are no use if you want eat with them unless it's clone of a fork. A tiny branch in the shape of a fork or a clone thereof would also do. 
