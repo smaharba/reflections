@@ -10,3 +10,7 @@ Describe the differences between forks, clones, and branches. When would you use
 	-forks are made on github to build upon repositories started by others
 	-clones are complete repositories pulled from github to a local machine
 	-also clones are no use if you want eat with them unless it's clone of a fork. A tiny branch in the shape of a fork or a clone thereof would also do. 
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+	you can check the remote changes and resolve conflocts before you merge everything
+	
